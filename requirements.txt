@@ -1,0 +1,13 @@
+pyzbar==0.1.9
+opencv-python-headless
+opencv-python
+onnxruntime
+python-multipart==0.0.6
+#easyocr==1.7.0
+pillow==9.5.0
+tensorflow==2.13.0
+cvu-python==0.0.2
+uvicorn==0.22.0
+fastapi==0.97.0
+boto3
+datetime
